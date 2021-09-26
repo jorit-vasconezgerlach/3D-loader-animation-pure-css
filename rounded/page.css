@@ -29,6 +29,7 @@ body {
     position: absolute;
     display: block;
     border: 15px solid #FFFFFF;
+    border-radius: 50%;
     box-sizing: border-box;
     box-shadow: 0 10px 0 #E0E0E0, inset 0 10px 0 #E0E0E0;
     animation: animate 4s ease-in-out infinite;
